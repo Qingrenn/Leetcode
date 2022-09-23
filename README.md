@@ -1,5 +1,4 @@
-# Leetcode
-💡 Summary for leetcode.
+![Leetcode Stats](https://leetcard.jacoblin.cool/qingrenn?site=cn&ext=heatmap)
 
 ## Weekly Contest
 
